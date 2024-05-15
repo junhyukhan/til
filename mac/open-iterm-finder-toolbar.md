@@ -15,3 +15,11 @@ tell application "iTerm"
     end tell
 end tell
 ```
+
+Here is a screenshot of my Finder toolbar with the button added:  
+(I removed the applescript logo cause it looked ugly)
+
+![image](https://github.com/junhyukhan/til/assets/160210995/15a5ac4f-1471-4cdd-9068-347bf9b265f3) 
+I can also use the terminal logo:
+![Screenshot 2024-05-16 at 02 25 49](https://github.com/junhyukhan/til/assets/160210995/c2075f11-298f-44e2-aa99-738a12a9d495)
+
