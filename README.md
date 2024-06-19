@@ -10,12 +10,12 @@ The notes will be organized in folders depending on their subject, and subfolder
 
 ## List of Entries
 
-[./README.md](./README.md)
-[./git/generate-apply-patches.md](./git/generate-apply-patches.md)
-[./javascript/double-exclaimation.md](./javascript/double-exclaimation.md)
-[./mac/open-iterm-finder-toolbar.md](./mac/open-iterm-finder-toolbar.md)
-[./python/simple-string-cleaning.md](./python/simple-string-cleaning.md)
-[./python/sliding_door.md](./python/sliding_door.md)
+[./README.md](./README.md)  
+[./git/generate-apply-patches.md](./git/generate-apply-patches.md)  
+[./javascript/double-exclaimation.md](./javascript/double-exclaimation.md)  
+[./mac/open-iterm-finder-toolbar.md](./mac/open-iterm-finder-toolbar.md)  
+[./python/simple-string-cleaning.md](./python/simple-string-cleaning.md)  
+[./python/sliding_door.md](./python/sliding_door.md)  
 
 ### Making the above list
 The script:
