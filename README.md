@@ -9,17 +9,17 @@ The notes will be organized in folders depending on their subject, and subfolder
 1. Transfer the handwritten notes on to this repo.
 
 ## List of Entries
-[./README.md](./README.md)
-[./git/discard-local-git-changes.md](./git/discard-local-git-changes.md)
-[./git/generate-apply-patches.md](./git/generate-apply-patches.md)
-[./javascript/double-exclaimation.md](./javascript/double-exclaimation.md)
-[./kernel/contributing.md](./kernel/contributing.md)
-[./mac/open-iterm-finder-toolbar.md](./mac/open-iterm-finder-toolbar.md)
-[./python/partition_list.md](./python/partition_list.md)
-[./python/reversing-nodes-in-kgroup.md](./python/reversing-nodes-in-kgroup.md)
-[./python/rotate_list.md](./python/rotate_list.md)
-[./python/simple-string-cleaning.md](./python/simple-string-cleaning.md)
-[./python/sliding_door.md](./python/sliding_door.md)
+[./README.md](./README.md)  
+[./git/discard-local-git-changes.md](./git/discard-local-git-changes.md)  
+[./git/generate-apply-patches.md](./git/generate-apply-patches.md)  
+[./javascript/double-exclaimation.md](./javascript/double-exclaimation.md)  
+[./kernel/contributing.md](./kernel/contributing.md)  
+[./mac/open-iterm-finder-toolbar.md](./mac/open-iterm-finder-toolbar.md)  
+[./python/partition_list.md](./python/partition_list.md)  
+[./python/reversing-nodes-in-kgroup.md](./python/reversing-nodes-in-kgroup.md)  
+[./python/rotate_list.md](./python/rotate_list.md)  
+[./python/simple-string-cleaning.md](./python/simple-string-cleaning.md)  
+[./python/sliding_door.md](./python/sliding_door.md)  
 
 ### Making the above list
 The script:
